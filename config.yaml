@@ -1,0 +1,34 @@
+DomainLocalDict: "domain.txt"
+UrlDict: "https://raw.githubusercontent.com/danielmiessler/SecLists/refs/heads/master/Discovery/DNS/subdomains-top1million-110000.txt"
+CDNList:
+  "美国-硅⾕":
+    - "https://ips-app-vrdhcyxprn.us-west-1.fcapp.run"
+  "新加坡":
+    - "https://ips-app-vrdhcyxprn.ap-southeast-5.fcapp.run"
+  "欧洲-伦敦":
+    - "https://ips-app-vrdhcyxprn.eu-west-1.fcapp.run"
+  "欧洲-法兰克福":
+    - "https://ips-app-vrdhcyxprn.eu-central-1.fcapp.run"
+  "印度尼⻄亚-雅加达":
+    - "https://ips-app-vrdhcyxprn.ap-southeast-7.fcapp.run"
+    - "https://ips-app-vrdhcyxprn.ap-southeast-1.fcapp.run"
+    - "https://ips-app-vrdhcyxprn.ap-southeast-3.fcapp.run"
+  "中国-深圳":
+    - "https://ips-app-nnrrqmtriz.cn-shenzhen.fcapp.run"
+  "中国-成都":
+    - "https://ips-app-vrdhcyxprn.cn-chengdu.fcapp.run"
+  "中国-杭州":
+    - "https://ips-app-nnrrjaztiz.cn-hangzhou.fcapp.run"
+  "中国-张家⼝":
+    - "https://ips-app-vrdhcyxprn.cn-zhangjiakou.fcapp.run"
+  "韩国-⾸尔":
+    - "https://ips-app-vrdhcyxprn.ap-northeast-2.fcapp.run"
+  "中国-北京":
+    - "https://ips-app-nnrrjaztiz.cn-beijing.fcapp.run"
+  "中国-呼和浩特":
+    - "https://ips-app-vrdhcyxprn.cn-huhehaote.fcapp.run"
+  "中国-⾹港":
+    - "https://ips-app-nnrrjaztiz.cn-hongkong.fcapp.run"
+  "中国-⻘岛":
+    - "https://ips-app-nnrrjaztiz.cn-qingdao.fcapp.run"
+
